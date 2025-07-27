@@ -1,4 +1,4 @@
-public class Animals{
+public abstract class Animals{
     String name;
     int age;
     String owner;
@@ -8,5 +8,4 @@ public class Animals{
         this.age = age;
         this.owner = owner;
     }
-
 }
